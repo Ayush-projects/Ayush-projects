@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://ibb.co/rdT8f7y "Header")]
+[![Header](https://i.ibb.co/g4HqFjg/Colorful-Planets-Outer-Space-General-Twitch-Banner.png "Header")]
 
 <!--
 **Ayush-projects/Ayush-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
