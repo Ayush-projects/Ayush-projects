@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Header](https://i.ibb.co/g4HqFjg/Colorful-Planets-Outer-Space-General-Twitch-Banner.png "Header")]
 
 <!--
