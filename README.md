@@ -1,23 +1,14 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-projects)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="https://i.ibb.co/g4HqFjg/Colorful-Planets-Outer-Space-General-Twitch-Banner.png" /></a></p>
+<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-projects)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
-**About me**
-
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+I'm a self-taught passionate Backend developer from India 🇮🇳
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
