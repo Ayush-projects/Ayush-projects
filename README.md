@@ -13,20 +13,3 @@ I'm a self-taught passionate Backend developer from India 🇮🇳
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-projects&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Ayush-projects/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-projects&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/Ayush-projects/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-projects&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/Ayush-projects/Ayush-projects.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-projects&repo=Ayush-projects.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-
-
-
-
