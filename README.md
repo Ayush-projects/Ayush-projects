@@ -4,7 +4,7 @@
 
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="https://i.ibb.co/g4HqFjg/Colorful-Planets-Outer-Space-General-Twitch-Banner.png" /></a></p>
-<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-projects)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-projects)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
