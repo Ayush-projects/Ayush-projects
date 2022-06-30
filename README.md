@@ -9,7 +9,9 @@
 I'm a self-taught passionate Backend developer from India 🇮🇳
   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-projects&include_all_commits=true&count_private=true&show_icons=true&theme=react&custom_title=My GitHub Stats" /> 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-projects&include_all_commits=true&count_private=true&show_icons=true&theme=react&custom_title=My GitHub Stats" /> </p>
+
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayush-projects) 
 
 
