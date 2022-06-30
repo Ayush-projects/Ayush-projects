@@ -10,6 +10,6 @@ I'm a self-taught passionate Backend developer from India 🇮🇳
   
 
 
-| <a href="https://github.com/Ayush-projects/"><img align="center" src="https://github.com/me-abhinav-1001" alt="Ayush's github stats" /></a> | <a href="https://github.com/Ayush-projects"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-projects&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<a href="https://github-readme-stats.vercel.app/api?username=Ayush-projects&include_all_commits=true&count_private=true&show_icons=true&theme=react&custom_title=My GitHub Stats">| <a href="https://github.com/Ayush-projects"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-projects&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
