@@ -9,6 +9,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ayush-projects&count_private=true" > </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayush-projects) 
+[![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush-projects&theme=dracula)](https://github.com/Ayush-projects)
 
 
