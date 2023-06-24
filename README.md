@@ -8,7 +8,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ayush-projects&count_private=true" > </p>
 
-
-[![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush-projects&theme=dracula)](https://github.com/Ayush-projects)
+<img align="left" vertical-align="middle" width="41%" src="https://raw.githubusercontent.com/weartist/weartist/main/dogs.gif">
 
 
