@@ -8,6 +8,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ayush-projects&count_private=true" > </p>
 
-<img align="center" width="41%" src="https://raw.githubusercontent.com/weartist/weartist/main/dogs.gif">
+<p align="center"><img width="60%" src="https://raw.githubusercontent.com/weartist/weartist/main/dogs.gif"></p>
 
 
