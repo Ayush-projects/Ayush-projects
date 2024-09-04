@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><a href="http://www.github.com/Ayush-projects"><img width="80%" src="https://i.ibb.co/g4HqFjg/Colorful-Planets-Outer-Space-General-Twitch-Banner.png" /></a></p>
+<p align="center"><a href="http://www.github.com/Ayush-projects"><img width="80%" src="https://github.com/user-attachments/assets/f02b2100-3b6d-409c-990a-0bca1086110c" /></a></p>
   
 
 
